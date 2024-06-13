@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\Desktop\\ApiIntro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_M839BQT_SQLEXPRESS/PB101Dbb/True/SqlTable/dbo.Books.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7E4E07-A743-4411-8D2C-785E7B8FF850}|ApiIntro\\ApiIntro.csproj|c:\\users\\hp\\desktop\\apiintro\\apiintro\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7E4E07-A743-4411-8D2C-785E7B8FF850}|ApiIntro\\ApiIntro.csproj|solutionrelative:apiintro\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7E4E07-A743-4411-8D2C-785E7B8FF850}|ApiIntro\\ApiIntro.csproj|c:\\users\\hp\\desktop\\apiintro\\apiintro\\migrations\\20240613000502_createdbooktable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7E4E07-A743-4411-8D2C-785E7B8FF850}|ApiIntro\\ApiIntro.csproj|solutionrelative:apiintro\\migrations\\20240613000502_createdbooktable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7E4E07-A743-4411-8D2C-785E7B8FF850}|ApiIntro\\ApiIntro.csproj|c:\\users\\hp\\desktop\\apiintro\\apiintro\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7E4E07-A743-4411-8D2C-785E7B8FF850}|ApiIntro\\ApiIntro.csproj|solutionrelative:apiintro\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7E4E07-A743-4411-8D2C-785E7B8FF850}|ApiIntro\\ApiIntro.csproj|c:\\users\\hp\\desktop\\apiintro\\apiintro\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7E4E07-A743-4411-8D2C-785E7B8FF850}|ApiIntro\\ApiIntro.csproj|solutionrelative:apiintro\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7E4E07-A743-4411-8D2C-785E7B8FF850}|ApiIntro\\ApiIntro.csproj|c:\\users\\hp\\desktop\\apiintro\\apiintro\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7E4E07-A743-4411-8D2C-785E7B8FF850}|ApiIntro\\ApiIntro.csproj|solutionrelative:apiintro\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7E4E07-A743-4411-8D2C-785E7B8FF850}|ApiIntro\\ApiIntro.csproj|c:\\users\\hp\\desktop\\apiintro\\apiintro\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7E4E07-A743-4411-8D2C-785E7B8FF850}|ApiIntro\\ApiIntro.csproj|solutionrelative:apiintro\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7E4E07-A743-4411-8D2C-785E7B8FF850}|ApiIntro\\ApiIntro.csproj|c:\\users\\hp\\desktop\\apiintro\\apiintro\\migrations\\20240612215216_createdcategoryatbles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7E4E07-A743-4411-8D2C-785E7B8FF850}|ApiIntro\\ApiIntro.csproj|solutionrelative:apiintro\\migrations\\20240612215216_createdcategoryatbles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7E4E07-A743-4411-8D2C-785E7B8FF850}|ApiIntro\\ApiIntro.csproj|c:\\users\\hp\\desktop\\apiintro\\apiintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7E4E07-A743-4411-8D2C-785E7B8FF850}|ApiIntro\\ApiIntro.csproj|solutionrelative:apiintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dbo.Books [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_M839BQT_SQLEXPRESS/PB101Dbb/True/SqlTable/dbo.Books.sql",
+              "ToolTip": "dbo.Books [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-13T00:30:34.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240613000502_CreatedBookTable.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ApiIntro\\ApiIntro\\Migrations\\20240613000502_CreatedBookTable.cs",
+              "RelativeDocumentMoniker": "ApiIntro\\Migrations\\20240613000502_CreatedBookTable.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ApiIntro\\ApiIntro\\Migrations\\20240613000502_CreatedBookTable.cs",
+              "RelativeToolTip": "ApiIntro\\Migrations\\20240613000502_CreatedBookTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:21:30.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240612215216_CreatedCategoryAtbles.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ApiIntro\\ApiIntro\\Migrations\\20240612215216_CreatedCategoryAtbles.cs",
+              "RelativeDocumentMoniker": "ApiIntro\\Migrations\\20240612215216_CreatedCategoryAtbles.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ApiIntro\\ApiIntro\\Migrations\\20240612215216_CreatedCategoryAtbles.cs",
+              "RelativeToolTip": "ApiIntro\\Migrations\\20240612215216_CreatedCategoryAtbles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:21:28.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ApiIntro\\ApiIntro\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ApiIntro\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ApiIntro\\ApiIntro\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "ApiIntro\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:09:49.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ApiIntro\\ApiIntro\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "ApiIntro\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ApiIntro\\ApiIntro\\Controllers\\BookController.cs",
+              "RelativeToolTip": "ApiIntro\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:05:56.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ApiIntro\\ApiIntro\\Program.cs",
+              "RelativeDocumentMoniker": "ApiIntro\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ApiIntro\\ApiIntro\\Program.cs",
+              "RelativeToolTip": "ApiIntro\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:04:12.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ApiIntro\\ApiIntro\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ApiIntro\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ApiIntro\\ApiIntro\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ApiIntro\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:03:15.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ApiIntro\\ApiIntro\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "ApiIntro\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ApiIntro\\ApiIntro\\Models\\Book.cs",
+              "RelativeToolTip": "ApiIntro\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:02:43.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\Desktop\\ApiIntro\\ApiIntro\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ApiIntro\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Hp\\Desktop\\ApiIntro\\ApiIntro\\Models\\Category.cs",
+              "RelativeToolTip": "ApiIntro\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T22:15:33.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
